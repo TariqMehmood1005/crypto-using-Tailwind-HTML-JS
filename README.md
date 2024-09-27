@@ -1,9 +1,9 @@
-Title
+Crypto Web App with Tailwind, JS, CSS, HTML
 ===
-Abstract:xxx
+Abstract:
 ## Papar Information
 - Title:  `paper name`
-- Authors:  `A`,`B`,`C`
+- Authors:  `Tariq Mehmood`
 - Preprint: [https://arxiv.org/abs/xx]()
 - Full-preprint: [paper position]()
 - Video: [video position]()
